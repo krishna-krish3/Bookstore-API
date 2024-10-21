@@ -55,3 +55,6 @@ Use Postman or any API client to test the endpoints. Make sure MongoDB is runnin
 | DELETE | `/api/books/:id`     | Delete a book by ID            | Yes       |
 | PUT    | `/api/books/:id`     | Update a book by ID            | Yes       |
 
+# Sequence Diagrams
+![image](https://github.com/user-attachments/assets/e7562ef6-69bd-4992-bfe1-f520db6bdd5d)
+
